@@ -9,8 +9,9 @@ redirect_from:
 
 I'm a first-year graduate student student from [Academy of Mathematics and System Science, CAS](http://www.amss.cas.cn). My research interest includes Deep Learning theory and AI4Science.
 
-I am very fortunate to be advised by [Prof. Shihua Zhang](https://people.ucas.ac.cn/~zsh) of ZhangLab from [Academy of Mathematics and System Science, CAS](http://www.amss.cas.cn). Before that, I was advised by [Prof. Huaming Wu](http://cam.tju.edu.cn/homepage/wuhuaming/) from [School of mathematics, Tianjin university](http://math.tju.edu.cn).
+I am very fortunate to be advised by [Prof. Shihua Zhang](https://people.ucas.ac.cn/~zsh) of ZhangLab from [Academy of Mathematics and System Science, CAS](http://www.amss.cas.cn). Before that, I was advised by [Prof. Huaming Wu](http://cam.tju.edu.cn/homepage/wuhuaming/) from [School of mathematics, Tianjin university](http://math.tju.edu.cn) . I obtained B.S. degree at 2023 with the higest honor.
+.
+% You can find my CV here: (To be updated).
 
-You can find my CV here: (To be update).
 
-[Github](https://github.com/XiayangLi.2301) 
+[Github](https://github.com/XiayangLi2301) 
