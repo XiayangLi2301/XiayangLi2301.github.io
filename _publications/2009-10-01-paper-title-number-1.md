@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Multiple errors correction for position-limited DNA sequences with GC balance and no homopolymer for DNA-based data storage"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This work was completed in collaboration with Professor Huaming Wu.'
 date: 2024-01-01
-venue: 'Brefings in Bioinformatics'
+venue: 'Briefings in Bioinformatics'
 paperurl: 'https://XiayangLi2301.github.io/files/bbac484.pdf'
 citation: 'Li, X., Chen, M., & Wu, H. (2023). Multiple errors correction for position-limited DNA sequences with GC balance and no homopolymer for DNA-based data storage. Briefings in Bioinformatics, 24(1), bbac484.'
 ---
