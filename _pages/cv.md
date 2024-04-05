@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Candidate, Academy of Mathematics and Systems science, 2028 (expected)
-* B.S. in Data Science and Big Data Technology, Tianjin University, 2023
+* B.S., School of Mathematic, Tianjin University, 2023
 
   
 
