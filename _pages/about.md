@@ -13,5 +13,3 @@ I am very fortunate to be advised by [Prof. Shihua Zhang](https://people.ucas.ac
 
 You can find my CV here: (To be updated).
 
-
-[Github](https://github.com/XiayangLi2301) 
