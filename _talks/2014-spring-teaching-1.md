@@ -1,5 +1,5 @@
 ---
-title: "Summary "
+title: "Summary on Unsupervised Learning"
 collection: teaching
 type: Machine Learning in Neuroscience
 permalink: /talks/2014-spring-teaching-1
