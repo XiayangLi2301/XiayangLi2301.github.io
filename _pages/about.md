@@ -13,3 +13,7 @@ I am very fortunate to be advised by [Prof. Shihua Zhang](https://people.ucas.ac
 
 You can find my CV here: [CV](https://xiayangli2301.github.io/files/Xia-Yang_Li_CV.pdf)
 
+### Publications
+
+- **Xiayang Li**, Moxuan Chen, Huaming Wu*, Multiple errors correction for position-limited DNA sequences with GC balance and no homopolymer for DNA-based data storage, Briefings in Bioinformatics, Volume 24, Issue 1, January 2023, bbac484, https://doi.org/10.1093/bib/bbac484
+- **Xiayang Li**, Shihua Zhang*, Learning-Based TSP-Solvers Tend to Be Overly Greedy, arXiv, 2502.00767.
